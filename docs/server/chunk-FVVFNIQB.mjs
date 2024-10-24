@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as e,e as m,j as a,m as s,o as f,p as c,s as l,y as d}from"./chunk-VIONULFM.mjs";var o=class p{title="test";static \u0275fac=function(t){return new(t||p)};static \u0275cmp=r({type:p,selectors:[["app-root"]],standalone:!0,features:[m],decls:4,vars:0,consts:[[2,"color","green"]],template:function(t,y){t&1&&(i(0,"div")(1,"h5",0),e(2,"Welcome to test"),n()(),e(3,"y"))}})};var g=[];var u={providers:[a({eventCoalescing:!0}),d(g),c()]};var A={providers:[l()]},C=s(u,A);var x=()=>f(o,C),k=x;export{k as a};
